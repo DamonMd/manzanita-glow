@@ -32,7 +32,7 @@ h6 {
     text-align: center;
     color: #f8f8f8;
     /*background: url(../img/hand-notes-holding-things.jpg) no-repeat center center;*/
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../public/img/arches/DSCN1777.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../public/img/DSCN1777.jpg);
     background-size: cover;
 }
 
